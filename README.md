@@ -164,7 +164,7 @@ Real-time collaborative code editor with conflict-free CRDT sync, AI-assisted co
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen98495&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=naveen98495&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
