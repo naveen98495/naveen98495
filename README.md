@@ -10,13 +10,13 @@
 ---
 
 ## 👨‍💻 About Me
-🎓 B.Tech Information Technology — MVGR College of Engineering, Vizianagaram
-💼 Targeting SDE-1 | Backend Engineer | Java Developer roles
-🔥 Passionate about building scalable backend systems & REST APIs
-🧠 200+ problems solved on LeetCode & HackerRank
-🚀 Love clean code, system design, and real-world deployments
-📫 Reach me: naveenamalakanti07@gmail.com
 
+- 🎓 B.Tech Information Technology — MVGR College of Engineering, Vizianagaram
+- 💼 Targeting SDE-1 | Backend Engineer | Java Developer roles
+- 🔥 Passionate about building scalable backend systems & REST APIs
+- 🧠 200+ problems solved on LeetCode & HackerRank
+- 🚀 Love clean code, system design, and real-world deployments
+- 📫 Reach me: naveenamalakanti07@gmail.com
 - 🔭 Currently building production-grade backend projects with **Spring Boot & Java**
 - 🌱 Deep-diving into **System Design, LLD, and Cloud Architecture**
 - ⚡ Android Development Intern under **EduSkills / AICTE**
@@ -159,12 +159,12 @@ Real-time collaborative code editor with conflict-free CRDT sync, AI-assisted co
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveen98495&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveen98495&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen98495&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=naveen98495&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=naveen98495&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -172,7 +172,7 @@ Real-time collaborative code editor with conflict-free CRDT sync, AI-assisted co
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naveen98495&theme=darkhub&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naveen98495&theme=darkhub&no-frame=true&margin-w=4" />
 </div>
 
 ---
