@@ -1,209 +1,169 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Naveen+👋;Backend+Engineer+%7C+Java+Developer;Spring+Boot+%7C+REST+APIs+%7C+Cloud;200%2B+LeetCode+Problems+Solved!" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=naveen98495&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/naveen98495?label=Followers&style=social" alt="Followers" />
+# Hey, I'm Naveen Amalakanti 👋
+
+### Software Engineer | Java | Spring Boot | Backend Development
+
+I like building things that actually work — mostly backend systems, APIs, and applications where I can understand what is happening behind the scenes.
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Information Technology — MVGR College of Engineering, Vizianagaram
-- 💼 Targeting SDE-1 | Backend Engineer | Java Developer roles
-- 🔥 Passionate about building scalable backend systems & REST APIs
-- 🧠 200+ problems solved on LeetCode & HackerRank
-- 🚀 Love clean code, system design, and real-world deployments
-- 📫 Reach me: naveenamalakanti07@gmail.com
-- 🔭 Currently building production-grade backend projects with **Spring Boot & Java**
-- 🌱 Deep-diving into **System Design, LLD, and Cloud Architecture**
-- ⚡ Android Development Intern under **EduSkills / AICTE**
-- 💡 I build things I can fully explain, deploy, and defend in interviews
+I'm a B.Tech Information Technology graduate with a strong interest in **backend and software engineering**. Most of my work is around **Java, Spring Boot, REST APIs, databases, Redis, and Docker**, while I also work with JavaScript and Node.js when a project needs a different stack.
+
+I enjoy working on problems involving APIs, data, authentication, real-time communication, asynchronous processing, and distributed systems. Along the way, I've built projects around transaction reconciliation, job matching, notifications, and real-time collaboration.
+
+* 🎓 B.Tech in Information Technology — MVGR College of Engineering
+* ☕ Mainly working with **Java & Spring Boot**
+* 🔗 Building and working with **REST APIs and backend services**
+* 🗄️ Comfortable with **MySQL, PostgreSQL and Redis**
+* ⚡ Exploring **Apache Kafka, asynchronous processing and distributed systems**
+* 🌐 Also work with **JavaScript, Node.js and React.js**
+* ☁️ Familiar with **AWS** and cloud-based application concepts
+* 🐳 Using **Docker** for containerized development
+* 🧠 Solved **240+ DSA problems** across LeetCode and HackerRank
+* 📚 Currently improving **System Design, LLD and core CS fundamentals**
+* 🔨 I prefer building projects that I can understand, explain, and improve
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages:** Java · Python · JavaScript · SQL
 
+**Backend:** Spring Boot · REST APIs · Node.js · Fastify · WebSockets
 
+**Frontend:** React.js
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**Databases & Messaging:** MySQL · PostgreSQL · Redis · Apache Kafka
 
-
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-**Backend & Frameworks**
-
-
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-
-
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-
-
-
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-
-
-**Databases & Cache**
-
-
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-
-
-**DevOps & Cloud**
-
-
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-
-
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-**Tools**
-
-
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-
-
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-
+**Cloud & Tools:** AWS · Docker · Git · GitHub · Postman · IntelliJ IDEA · VS Code
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 💳 Digital Wallet & Payment System
-> Redis · PostgreSQL · WebAuthn · AES-256 · Docker · AWS EC2 · CI/CD
+### 1. Transaction Reconciliation System
 
-Secure digital wallet with biometric authentication, AES-256 encryption, real-time balance management, and containerized deployment on AWS EC2.
+**Java · Spring Boot · Spring Security · MySQL · Docker**
 
----
+A backend system built around processing transaction records and handling reconciliation workflows.
 
-### 📦 Inventory & AI Forecasting Platform
-> Next.js · FastAPI · Prophet · PostgreSQL · GCP Cloud Run
+* REST APIs for transaction management
+* JWT authentication and role-based access control
+* CSV transaction processing
+* JPA/Hibernate persistence
+* Pagination and sorting
+* Swagger/OpenAPI documentation
+* Docker-based setup
 
-Full-stack SaaS platform with AI-powered demand forecasting using Facebook Prophet, real-time inventory alerts, and auto-scaling on GCP.
-
----
-
-### 🖥️ Collab Code Editor
-> Yjs CRDT · CodeMirror 6 · WebSocket · OpenAI · Fly.io
-
-Real-time collaborative code editor with conflict-free CRDT sync, AI-assisted code suggestions via OpenAI, deployed on Fly.io.
+🔗 [View Repository](https://github.com/naveen98495/transaction-reconciliation-system)
 
 ---
 
-## 📊 GitHub Stats
+### 2. Distributed Async Notification System
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveen98495&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveen98495&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
+**Java · Spring Boot · Apache Kafka**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=naveen98495&theme=tokyonight&hide_border=true" />
-</div>
+A backend project exploring how notification workloads can be handled asynchronously using an event-driven approach.
 
----
+* REST-based event creation
+* Kafka producer and consumer workflow
+* Asynchronous notification processing
+* Event-driven communication
+* Decoupled backend components
+* Retry and failure-handling concepts
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naveen98495&theme=darkhub&no-frame=true&margin-w=4" />
-</div>
+🔗 [View Repository](https://github.com/naveen98495/Distributed-Async-Notification-System)
 
 ---
 
-## 🤝 Let's Connect
+### 3. Real-Time Collaborative Code Editor
+
+**JavaScript · WebSockets · Yjs · CRDT · Redis**
+
+A collaborative coding environment where multiple users can work on the same document while keeping changes synchronized in real time.
+
+* WebSocket-based real-time communication
+* Collaborative editing
+* CRDT-based synchronization
+* Concurrent user editing
+* Yjs shared document state
+* Redis-supported infrastructure
+
+🔗 [View Repository](https://github.com/naveen98495/Real-Time-Collaborative-Code-Editor)
+
+---
+
+### 4. AI Job Match
+
+**React · Node.js · Fastify · Redis · Gemini**
+
+A job-matching application that compares job requirements with candidate information and generates a relevance score.
+
+* Skill-based matching
+* Experience-based matching
+* Job-title relevance
+* AI-assisted analysis
+* Redis caching
+* Multi-source job retrieval
+
+🔗 [View Repository](https://github.com/naveen98495/ai-job-tracker)
+
+---
+
+## 📚 DSA & Problem Solving
+
+I've solved **240+ problems across LeetCode and HackerRank**, mainly to strengthen problem-solving skills and core data structures and algorithms.
+
+Currently practicing:
+
+`Arrays` · `Strings` · `Hashing` · `Linked Lists` · `Stacks & Queues` · `Trees` · `Graphs` · `Recursion` · `Dynamic Programming`
+
+---
+
+## 🎯 What I'm Working On
+
+Right now I'm spending most of my time improving my backend development skills, especially around Java and Spring Boot.
+
+I'm also learning more about:
+
+* Distributed systems
+* Asynchronous processing
+* System Design
+* Low-Level Design
+* Cloud fundamentals
+* Database and caching patterns
+
+I'm currently looking for **Software Engineer, SDE, Backend Engineer and Java Developer** opportunities.
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-[
+<a href="https://linkedin.com/in/naveen-amalakanti">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="mailto:naveenamalakanti07@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-](https://linkedin.com/in/naveen-amalakanti)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/naveen98495)
-[
-
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
-](https://leetcode.com/naveen98495)
-[
-
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:naveenamalakanti07@gmail.com)
+<a href="https://github.com/naveen98495">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
+<br>
+
 <div align="center">
-  <i>"Build things you can fully explain, deploy, and defend."</i>
+
+<i>Build things you can understand, explain, and improve.</i>
+
 </div>
